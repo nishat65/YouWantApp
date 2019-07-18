@@ -1,0 +1,12 @@
+export {default as Login } from './Auth/Login';
+export {default as Signup } from './Auth/Signup';
+export {default as Home } from './Home/Home';
+export { default as Search } from './Search/Search';
+export { default as ConfirmContainer } from './Confirmation/confirmation';
+export { default as Verification } from "./Verification/Verification";
+export { default as AdDetails } from "./AdDetail/AdDetail";
+export { default as SellCar } from "./SellCar/SellCar";
+export { default as Author } from "./Author/Author";
+export { default as ContactUs } from "./ContactUs/ContactUs";
+export { default as AboutUs } from "./AboutUs/AboutUs";
+export { default as HowItWork } from "./HowItWork/HowItWork"; 
